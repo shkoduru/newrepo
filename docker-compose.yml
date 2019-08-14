@@ -1,0 +1,6 @@
+version: "2.0"
+services:
+  vproapp:
+          image: shkoduru/python:5.0
+     ports:
+       - "8080:8080"
